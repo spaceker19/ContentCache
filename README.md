@@ -1,3 +1,3 @@
 # ContentCache
-a webapp for anime recommendations
+a webapp for recommendations
 
